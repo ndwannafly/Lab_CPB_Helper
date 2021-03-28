@@ -1,0 +1,35 @@
+pignite:
+Ходы Covet Endeavor Fire Pledge Fire Punch Heat Wave Helping
+Hand Iron Tail Low Kick Sleep Talk Snore Superpower
+Thunderpunch
+flygon:
+satk=8 sdef=8 spd=10
+swellow:
+Способности Last
+Chance Mach Speed Guts Vital Spirit
+doduo0:
+Живет  Desert
+Grassland
+tangrowth:
+satk=11 sdef=5 spd=5
+chinchout:
+Тип диеты
+Herbivore
+murkrow:
+Способности Astonish Peck Pursuit Haze Wing Attack
+Night Shade Assurance Taunt Faint Attack Mean Look Foul Play Tailwind
+Sucker Punch Torment Quash
+nidoqueen:
+Возможности Overland=7
+Surface=2 Jump=2 Power=4 Intelligence=4 Groundshaper=0 Pack
+Mon=0
+scyther5:
+satk=6 sdef=8 spd=11
+raichu:
+weight=66.1 height=31.0
+atk=9 def=6
+pansear:
+Живет Forests Rainforest
+zorua4:
+Развитые
+способности Pickpocket
